@@ -1,6 +1,6 @@
 Computer Engineer/Coder👋
 <img src = "https://www.solivatech.com/assets/uploads/media-uploader/mern-stack-development1622729001.png"/> 
-- 🔭 I’m currently working in Hash Technologies.
+- 🔭 I’m currently working at Hash Technologies.
 - 🌱 I’m currently learning MERN Stack.
 - 👯 I’m looking to collaborate on Web Projects.
 - 💬 Ask me about Code ,Life and Football.
